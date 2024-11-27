@@ -1,5 +1,6 @@
-## Hi there 👋 i am Wail
+ #### Hi there 👋 i am Wail
 
+ 📫 how to reach me wailmansour24@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wail_mo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wail_m.o) 
