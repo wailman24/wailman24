@@ -14,8 +14,10 @@
   </a>
 </div>
 
+---
 ###
 
+## 🧰 Techs
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -52,4 +54,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
 </div>
 
+---
 ###
